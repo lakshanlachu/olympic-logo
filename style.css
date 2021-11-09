@@ -1,0 +1,11 @@
+.body_background {
+    background-image: url("kkk.jpg");
+    background-position: center;
+	background-size: cover;
+
+}
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
